@@ -1,3 +1,4 @@
+🧡
 ```
 graph TD
     A[nome-do-seu-blog/] --> B{src/};
